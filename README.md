@@ -2,7 +2,7 @@
 
 Keeper App is a decentralized application (DApp) that functions as a clone of Google Notes. It leverages DFINITY and React technologies to provide users with a platform for creating, deleting, and updating notes in a decentralized environment.
 
-![todo list screenshot](https://github.com/Hariram-6674/To-Do-List-Website/blob/main/ezgif-6-5d5041bd15.gif)
+![Keepr app](https://github.com/Hariram-6674/Google-notes-Clone-on-DAPP/blob/main/ezgif-6-5d5041bd15.gif)
 
 ## Deployment Instructions
 
